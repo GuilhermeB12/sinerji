@@ -57,3 +57,11 @@ Após a configuração, você pode iniciar a aplicação a partir da raiz do pro
 
 ```bash
 python main.py
+```
+
+## Link do Vídeo 
+
+vídeo da demonstração do funcionamento
+``` bash
+https://youtu.be/XEbYAriAzME
+```
